@@ -11,7 +11,7 @@ All rights reserved to GitHub and F-Droid.
 If there is a licensing issue, please let me know.
 
 ## Preview
-[<img src="https://raw.githubusercontent.com/SchweGELBin/Get-It-On/refs/heads/main/get-it-on.png" height="60">](https://github.com/SchweGELBin/Get-It-On/blob/main/get-it-on.png)
+![./get-it-on.png](./get-it-on.png)
 
 ## Usage
 ### Markdown
